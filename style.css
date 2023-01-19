@@ -1,0 +1,194 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    background-color: rgb(20, 19, 19);
+}
+.background{
+    display: flex;
+    width: 485px;
+    height: 500px;
+
+}
+.box1{
+    width: 40px;
+    height: 33px;
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box1:hover{
+    background-color: red;
+    border: none;
+    transform: scale(1.2);
+}
+.box2{
+    width: 40px;
+    height: 33px;
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box2:hover{
+    background-color: rgb(0, 217, 255);
+    border: none;
+    transform: scale(1.2);
+}
+.box3{
+    width: 40px;
+    height: 33px; 
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box3:hover{
+    background-color: yellow;
+    border: none;
+    transform: scale(1.2);
+}
+.box4{
+    width: 40px;
+    height: 33px; 
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box4:hover{
+    background-color: orangered;
+    border: none;
+    transform: scale(1.2);
+}
+.box5{
+    width: 40px;
+    height: 33px;   
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box5:hover{
+    background-color:rebeccapurple;
+    border: none;
+    transform: scale(1.2);
+}
+.box6{
+    width: 40px;
+    height: 33px;  
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box6:hover{
+    background-color:chartreuse;
+    border: none;
+    transform: scale(1.2);
+}
+.box7{
+    width: 40px;
+    height: 33px;   
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box7:hover{
+    background-color:cornflowerblue;
+    border: none;
+    transform: scale(1.2);
+}
+.box8{
+    width: 40px;
+    height: 33px;    
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box8:hover{
+    background-color:cyan;
+    border: none;
+    transform: scale(1.2);
+}
+.box9{
+    width: 40px;
+    height: 33px;   
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box9:hover{
+    background-color:brown;
+    border: none;
+    transform: scale(1.2);
+}
+.box10{
+    width: 40px;
+    height: 33px;   
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+    
+}
+.box10:hover{
+    background-color:deeppink;
+    border: none;
+    transform: scale(1.2);
+}
+.box11{
+    width: 40px;
+    height: 33px;    
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box11:hover{
+    background-color:gold;
+    border: none;
+    transform: scale(1.2);
+}
+.box12{
+    width: 40px;
+    height: 33px;  
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box12:hover{
+    background-color:royalblue;
+    border: none;
+    transform: scale(1.2);
+}
+.box13{
+    width: 40px;
+    height: 33px;  
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box13:hover{
+    background-color:blue;
+    border: none;
+    transform: scale(1.2);
+}
+.box14{
+    width: 40px;
+    height: 33px;   
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box14:hover{
+    background-color:black;
+    border: none;
+    transform: scale(1.2);
+}
+.box15{
+    width: 40px;
+    height: 33px;   
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box15:hover{
+    background-color:orange;
+    border: none;
+    transform: scale(1.2);
+}
+.box16{
+    width: 40px;
+    height: 33px;    
+    transition: 0.5s linear;
+    border: 1.5px solid rgb(44, 44, 44);
+}
+.box16:hover{
+    background-color:hotpink;
+    border: none;
+    transform: scale(1.2);
+}
